@@ -1,0 +1,57 @@
+{
+  "type": "Message",
+  "id": "1xmgmRMbipz",
+  "conversationId": "8a684db8",
+  "created": "2016-04-05T13:36:29.737739Z",
+  "language": "en",
+  "text": "test",
+  "attachments": [],
+  "from": {
+    "name": "User1",
+    "channelId": "emulator",
+    "address": "User1",
+    "id": "2c1c7fa3",
+    "isBot": false
+  },
+  "to": {
+    "name": "YourAppId",
+    "channelId": "emulator",
+    "address": "YourAppId",
+    "id": "YourAppId",
+    "isBot": true
+  },
+  "participants": [
+    {
+      "name": "User1",
+      "channelId": "emulator",
+      "address": "User1",
+      "id": "2c1c7fa3",
+      "isBot": false
+    },
+    {
+      "name": "YourAppId",
+      "channelId": "emulator",
+      "address": "YourAppId",
+      "id": "YourAppId",
+      "isBot": true
+    }
+  ],
+  "totalParticipants": 2,
+  "mentions": [],
+  "channelMessageId": "3fWW0RqTDMW",
+  "channelConversationId": "Conv1",
+  "botUserData": {},
+  "botConversationData": {},
+  "botPerUserInConversationData": {
+    "BotBuilder.Data.SessionState": {
+      "callstack": [
+        {
+          "id": "/",
+          "state": {}
+        }
+      ],
+      "lastAccess": 1459854042249
+    }
+  },
+  "hashtags": []
+}
