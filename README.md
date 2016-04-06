@@ -18,6 +18,10 @@ then execute it:
 ```javascript
 $ npm start
 ```
+### test
+
+- windows: you can test the bot by [Bot Framework Emulator](http://docs.botframework.com/connector/tools/bot-framework-emulator/#navtitle)
+- others: just send a POST request to the server ([there is a sample request](sample-request.json))
 
 ## How does it work?
 
